@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">week4task</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="utility">Utility</string>
+    <string name="special_offers">Special Offers</string>
+    <string name="partners">Partners</string>
+    <string name="channel_name">notification</string>
+    <string name="channel_description">just a description</string>
+    <string name="more">more</string>
+    <string name="support">support</string>
+    <string name="history">history</string>
+    <string name="payment">payment</string>
+    <string name="product">product</string>
+    <string name="support_us">Support us</string>
+    <string name="lorem_ipsum">Just another fragment</string>
+    <string name="ola_machiavelli">Ola Machiavelli</string>
+</resources>

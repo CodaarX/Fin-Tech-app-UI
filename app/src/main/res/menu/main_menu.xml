@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/product"
+        android:icon="@drawable/ic_product"
+        android:id="@+id/productMenu"
+        android:onClick="openProduct" />
+    <item
+        android:title="@string/payment"
+        android:icon="@drawable/ic_payment"
+        android:id="@+id/paymentMenu"
+        android:onClick="openPayment"/>
+    <item
+        android:title="@string/history"
+        android:icon="@drawable/ic_history"
+        android:id="@+id/historyMenu"
+        android:onClick="openHistory"/>
+    <item
+        android:title="@string/support"
+        android:icon="@drawable/ic_support"
+        android:id="@+id/supportMenu"
+        android:onClick="openSupport"/>
+    <item
+        android:title="@string/more"
+        android:icon="@drawable/ic_more"
+        android:id="@+id/contactMenu"
+        android:onClick="openMore"/>
+</menu>
